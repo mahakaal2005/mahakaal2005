@@ -1,0 +1,49 @@
+name: Build Dynamic Profile
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Job 1: Generate WakaTime Stats
+      - name: WakaTime Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "false"
+          BLOCKS: "multi-line"
+          TIME_RANGE: "last_7_days"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+
+      # Job 2: Generate 3D Contribution Graph
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          github_user: mahakaal2005
+          out_path: ./output/profile-3d-contrib.svg
+      
+      # Job 3: Generate Snake Animation
+      - name: Generate Snake Animation
+        uses: platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+      # Commit and push all generated files and README changes
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-update profile"
+          git push
