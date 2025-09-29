@@ -22,19 +22,14 @@ jobs:
           SHOW_TIME: "true"
           SHOW_TOTAL: "true"
 
-      # Job 2: Generate 3D Contribution Graph (Corrected)
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: ${{ github.repository_owner }} # <- THIS IS THE CORRECTED LINE
+      # Job 2: Generate Isometric Contribution Graph (New & Reliable)
+      - name: Generate Isometric Contribution Graph
+        uses: S_XP/action--isometric-contribution@v1.1
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          USER_NAME: mahakaal2005
+          FILE_NAME: "output/isometric_contribution.svg"
 
-      # This step moves the generated file to the correct folder
-      - name: Move 3D Graph to output folder
-        run: |
-          mkdir -p ./output
-          mv ./profile-3d-contrib.svg ./output/profile-3d-contrib.svg
-      
       # Job 3: Generate Snake Animation
       - name: Generate Snake Animation
         uses: platane/snk/svg-only@v3

@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Atul+Kumar+Singh+%F0%9F%91%8B;A+Developer+from+Muradnagar%2C+India;Building+robust+mobile+%26+backend+systems.;Always+learning%2C+always+innovating." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Atul+Kumar+Singh+%F0%9F%91%8B;Backend+%26+Mobile+Application+Developer;Transforming+Ideas+into+Scalable+Solutions;Let's+build+something+amazing+together." alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -7,9 +7,9 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3 align="left">More About Me</h3>
+      <h3 align="left">Crafting Digital Experiences</h3>
       <p align="left">
-        I'm a developer with a deep interest in building efficient, scalable applications, from the mobile front-end to the back-end infrastructure. I'm currently sharpening my expertise in Data Structures & Algorithms and exploring technologies like <strong>Kotlin, Flutter, and Supabase</strong> to build next-generation apps. I'm always open to connecting with fellow developers and collaborating on exciting projects.
+        As a developer from Muradnagar, India, I specialize in building the robust engines that power modern applications. My focus is on creating efficient backend systems and fluid mobile experiences. I thrive on turning complex challenges into scalable, high-performance solutions and am currently deepening my expertise in advanced algorithms and system design.
       </p>
       <div align="left">
         <a href="https://www.linkedin.com/in/atul-kumar-singh-3a828332b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,15 +18,15 @@
       <br>
       <h3 align="left">Featured Projects</h3>
       <p align="left">
-        <strong><a href="https://github.com/mahakaal2005/AI-CHATBOT">🤖 AI-Chatbot</a></strong><br>
-        A Python-based chatbot leveraging NLP to understand and respond to user queries.
+        <strong><a href="https://github.com/mahakaal2005/AI-CHATBOT">🤖 Conversational AI Chatbot</a></strong><br>
+        <i>Demonstrates my ability to implement NLP and build intelligent systems using Python.</i>
         <br><br>
-        <strong><a href="https://github.com/mahakaal2005/Text-utills">✍️ Text-Utils App</a></strong><br>
-        A feature-rich text manipulation tool built with React, demonstrating modern frontend development skills.
+        <strong><a href="https://github.com/mahakaal2005/Text-utills">✍️ React Text Utility App</a></strong><br>
+        <i>Showcases my skills in modern frontend development, state management, and creating responsive user interfaces.</i>
       </p>
     </td>
     <td width="35%" valign="top">
-      <h3 align="center">Weekly Coding Activity</h3>
+      <h3 align="center">Weekly Coding Rhythm</h3>
       </td>
   </tr>
 </table>
@@ -34,13 +34,13 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">LeetCode Problem Solving</h3>
+      <h3 align="center">LeetCode Progress</h3>
       <div align="center">
         <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/Atul5002?theme=dark&font=Fira%20Code&ext=heatmap" />
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">My GitHub Stats</h3>
+      <h3 align="center">GitHub Statistics</h3>
       <div align="center">
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahakaal2005&show_icons=true&locale=en&theme=dracula&count_private=true&hide_border=true&hide=issues,contribs" />
       </div>
@@ -50,15 +50,15 @@
 
 <br>
 
-<h2 align="center">My Contribution Graphs</h2>
+<h2 align="center">My Contribution Footprint</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/output/profile-3d-contrib.svg" alt="My 3D Contribution Graph">
+  <img src="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/main/output/isometric_contribution.svg" alt="My Isometric Contribution Graph">
 </div>
 <details align="center">
   <summary>Click to see the legendary snake game 🐍</summary>
   <picture>
-    <source media="(prefers-scheme: dark)" srcset="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-scheme: light)" srcset="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/output/github-contribution-grid-snake.svg">
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/output/github-contribution-grid-snake.svg">
   </picture>
 </details>
