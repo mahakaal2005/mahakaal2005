@@ -1,0 +1,15 @@
+name: Generate Contribution Graph
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: maurodesouza/profile-contribution-graph-action@v1.1.0
+        with:
+          user_name: mahakaal2005
+          graph_type: pacman
