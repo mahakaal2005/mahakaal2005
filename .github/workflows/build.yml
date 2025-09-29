@@ -22,13 +22,18 @@ jobs:
           SHOW_TIME: "true"
           SHOW_TOTAL: "true"
 
-      # Job 2: Generate 3D Contribution Graph
+      # Job 2: Generate 3D Contribution Graph (Corrected)
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          github_user: mahakaal2005
-          out_path: ./output/profile-3d-contrib.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USER: mahakaal2005
+      
+      # This new step moves the generated file to the correct folder
+      - name: Move 3D Graph to output folder
+        run: |
+          mkdir -p ./output
+          mv ./profile-3d-contrib.svg ./output/profile-3d-contrib.svg
       
       # Job 3: Generate Snake Animation
       - name: Generate Snake Animation
