@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Atul+Kumar+Singh+%F0%9F%91%8B;Backend+%26+Mobile+Application+Developer;Transforming+Ideas+into+Scalable+Solutions;Let's+build+something+amazing+together." alt="Typing SVG" /></a>
+  <a href="https://git.io/mahakaal2005">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=220&section=header&text=Atul%20Kumar%20Singh&desc=Backend%20%26%20Mobile%20Application%20Developer&fontSize=60&fontAlignY=40&descAlignY=60&animation=fadeIn" />
+  </a>
 </div>
-
-<br>
 
 <table width="100%">
   <tr>
@@ -52,13 +52,9 @@
 
 <h2 align="center">My Contribution Footprint</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/main/output/isometric_contribution.svg" alt="My Isometric Contribution Graph">
-</div>
-<details align="center">
-  <summary>Click to see the legendary snake game 🐍</summary>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/output/github-contribution-grid-snake.svg">
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/output/github-contribution-grid-snake.svg">
   </picture>
-</details>
+</div>
