@@ -27,9 +27,9 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          USER: mahakaal2005
-      
-      # This new step moves the generated file to the correct folder
+          USERNAME: ${{ github.repository_owner }} # <- THIS IS THE CORRECTED LINE
+
+      # This step moves the generated file to the correct folder
       - name: Move 3D Graph to output folder
         run: |
           mkdir -p ./output
