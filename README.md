@@ -1,147 +1,150 @@
-<img src="./assets/header_divider.gif" width="100%">
+<!-- Premium Green Theme Profile | Generated with UI/UX Pro Max Design System -->
+<!-- Colors: Primary #39D353 | Secondary #238636 | Background #0D1117 | Text #F8FAFC -->
 
 <div align="center">
+  
+  <!-- Animated Typing Header with JetBrains Mono vibe -->
   <a href="https://github.com/mahakaal2005">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39D353&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Atul+Kumar+Singh;Backend+%26+Mobile+Developer;Android+Domain+Coordinator+%40+Innogeeks;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E_+Atul+Kumar+Singh;Backend+%26+Mobile+Developer+%7C+System+Architect" alt="Typing SVG" />
   </a>
+  
+  <br><br>
+  
+  <!-- Minimal Status Line -->
+  <img src="https://img.shields.io/badge/Focus-Backend_Systems_|_Mobile_Apps-0d1117?style=flat&labelColor=0d1117&color=39d353" />
+  <img src="https://img.shields.io/badge/Location-India-0d1117?style=flat&labelColor=0d1117&color=238636" />
+  <img src="https://komarev.com/ghpvc/?username=mahakaal2005&style=flat&color=39d353&label=Profile+Views" />
+
 </div>
 
-# <b>Hey there!</b> <img src="./assets/waving.gif" width="35">
+<br>
 
-<img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
-<img src="./assets/line_break.gif">
+<!-- About Section with Clean Layout -->
+## `> whoami`
 
-<p>
-I'm a <b>2nd Year CSE Undergrad</b> at <b>KIET Group of Institutions</b> with a <b>9.03 CGPA</b>, passionate about building robust backend systems and fluid mobile experiences. As the <b>Android Domain Coordinator</b> at <b>Innogeeks Club</b>, I mentor 200+ students and organize hackathons.
-
-I specialize in turning complex challenges into scalable, production-grade solutions. Currently deepening my expertise in system design and clean architecture while actively contributing to open source.
-</p>
+```java
+public class Developer {
+    String name = "Atul Kumar Singh";
+    String role = "Android Domain Coordinator @ Innogeeks";
+    String education = "2nd Year CSE @ KIET | 9.03 CGPA";
+    
+    String[] expertise = {
+        "Backend Systems (Spring Boot, Firebase)",
+        "Mobile Development (Android, Flutter)",
+        "System Design & Clean Architecture"
+    };
+    
+    String currentFocus = "Building scalable, production-grade solutions";
+    int studentsImpacted = 200;  // Through mentorship & hackathons
+}
+```
 
 <div>
-  <a href="https://www.linkedin.com/in/atul-kumar-singh-3a828332b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.com/users/1308055867463307286" target="_blank"><img src="https://img.shields.io/badge/Discord-238636?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:atul.k.singh5002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mahakaal2005" target="_blank"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/atul-kumar-singh-3a828332b/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" /></a>
+  <a href="https://discord.com/users/1308055867463307286"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=39d353" /></a>
+  <a href="mailto:atul.k.singh5002@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" /></a>
+  <a href="https://github.com/mahakaal2005"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39d353" /></a>
 </div>
 
-<br>
+<br><br>
 
-<img src="./assets/script_sticker.gif" width="35">&nbsp;**_Tech Stack_**
-<img src="./assets/line_break.gif">
+## `> tech --stack`
 
-<table align="center">
-    <tr>
-        <td align="center" width="90"><img height="50" src="./icons/java.svg" width="50"><br>Java</td>
-        <td align="center" width="90"><img height="50" src="./icons/kotlin.svg" width="50"><br>Kotlin</td>
-        <td align="center" width="90"><img height="50" src="./icons/dart.svg" width="50"><br>Dart</td>
-        <td align="center" width="90"><img height="50" src="./icons/c.svg" width="50"><br>C</td>
-        <td align="center" width="90"><img height="50" src="./icons/mysql.svg" width="50"><br>SQL</td>
-        <td align="center" width="90"><img height="50" src="./icons/spring.svg" width="50"><br>Spring Boot</td>
-    </tr>
-    <tr>
-        <td align="center" width="90"><img height="50" src="./icons/android.svg" width="50"><br>Android</td>
-        <td align="center" width="90"><img height="50" src="./icons/jetpackcompose.svg" width="50"><br>Compose</td>
-        <td align="center" width="90"><img height="50" src="./icons/flutter.svg" width="50"><br>Flutter</td>
-        <td align="center" width="90"><img height="50" src="./icons/firebase.svg" width="50"><br>Firebase</td>
-        <td align="center" width="90"><img height="50" src="./icons/supabase.svg" width="50"><br>Supabase</td>
-        <td align="center" width="90"><img height="50" src="./icons/postman.svg" width="50"><br>REST APIs</td>
-    </tr>
-    <tr>
-        <td align="center" width="90"><img height="50" src="./icons/git.svg" width="50"><br>Git</td>
-        <td align="center" width="90"><img height="50" src="./icons/github.svg" width="50"><br>GitHub</td>
-        <td align="center" width="90"><img height="50" src="./icons/androidstudio.svg" width="50"><br>Android Studio</td>
-        <td align="center" width="90"><img height="50" src="./icons/vscode.svg" width="50"><br>VS Code</td>
-        <td align="center" width="90"><img height="50" src="./icons/gradle.svg" width="50"><br>Gradle</td>
-        <td align="center" width="90"><img height="50" src="./icons/linux.svg" width="50"><br>Linux</td>
-    </tr>
-</table>
+<div align="center">
 
-<br>
+| **Languages** | **Mobile** | **Backend** | **Tools** |
+|:---:|:---:|:---:|:---:|
+| <img src="./icons/java.svg" width="40"><br>`Java` | <img src="./icons/android.svg" width="40"><br>`Android` | <img src="./icons/spring.svg" width="40"><br>`Spring Boot` | <img src="./icons/git.svg" width="40"><br>`Git` |
+| <img src="./icons/kotlin.svg" width="40"><br>`Kotlin` | <img src="./icons/jetpackcompose.svg" width="40"><br>`Compose` | <img src="./icons/firebase.svg" width="40"><br>`Firebase` | <img src="./icons/androidstudio.svg" width="40"><br>`Android Studio` |
+| <img src="./icons/dart.svg" width="40"><br>`Dart` | <img src="./icons/flutter.svg" width="40"><br>`Flutter` | <img src="./icons/supabase.svg" width="40"><br>`Supabase` | <img src="./icons/vscode.svg" width="40"><br>`VS Code` |
+| <img src="./icons/c.svg" width="40"><br>`C` | <img src="./icons/postman.svg" width="40"><br>`REST APIs` | <img src="./icons/mysql.svg" width="40"><br>`SQL` | <img src="./icons/linux.svg" width="40"><br>`Linux` |
 
-<img src="./assets/stats_logo.gif" width="35">&nbsp;**_Featured Projects_**
-<img src="./assets/line_break.gif">
+</div>
+
+<br><br>
+
+## `> projects --featured`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 FinTech Management Dashboard</h3>
-      <p><i>Cross-platform fintech dashboard serving as central management hub for cashback rewards, social features, and merchant services.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-39D353?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-39D353?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/BLoC-238636?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-238636?style=flat-square&logo=firebase&logoColor=white" />
-      </p>
-      <a href="https://github.com/mahakaal2005/fintech-dashboard"><img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💼 JobApp - Job Portal Platform</h3>
-      <p><i>Complete job portal with dual user roles, real-time chat, and optimized search functionality.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-39D353?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-39D353?style=flat-square&logo=firebase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Provider-238636?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudinary-238636?style=flat-square&logo=cloudinary&logoColor=white" />
-      </p>
-      <a href="https://github.com/mahakaal2005/JobApp"><img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Health Assistant</h3>
-      <p><i>Android health tracking app with step counting, prescription management, and AI-powered health summaries using Gemini.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-39D353?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-39D353?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/MVVM-238636?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-238636?style=flat-square&logo=google&logoColor=white" />
-      </p>
-      <a href="https://github.com/mahakaal2005/Health-Assistant"><img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Chatbot</h3>
-      <p><i>Conversational AI chatbot demonstrating NLP implementation and intelligent systems using Python.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-39D353?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-39D353?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine_Learning-238636?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <a href="https://github.com/mahakaal2005/AI-CHATBOT"><img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ▸ FinTech Dashboard
+> Cross-platform fintech management hub for cashback rewards, social features & merchant services
+
+<img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=39d353" /> <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=39d353" /> <img src="https://img.shields.io/badge/BLoC-0d1117?style=flat-square&logo=flutter&logoColor=238636" /> <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=238636" />
+
+<a href="https://github.com/mahakaal2005/fintech-dashboard"><img src="https://img.shields.io/badge/→_View_Code-39d353?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ▸ JobApp Portal
+> Complete job portal with dual roles, real-time chat & optimized search
+
+<img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=39d353" /> <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=39d353" /> <img src="https://img.shields.io/badge/Provider-0d1117?style=flat-square&logo=flutter&logoColor=238636" /> <img src="https://img.shields.io/badge/Cloudinary-0d1117?style=flat-square&logo=cloudinary&logoColor=238636" />
+
+<a href="https://github.com/mahakaal2005/JobApp"><img src="https://img.shields.io/badge/→_View_Code-39d353?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ▸ Health Assistant
+> Android health tracker with step counting, prescriptions & Gemini AI summaries
+
+<img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=39d353" /> <img src="https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android&logoColor=39d353" /> <img src="https://img.shields.io/badge/MVVM-0d1117?style=flat-square&logo=android&logoColor=238636" /> <img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=google&logoColor=238636" />
+
+<a href="https://github.com/mahakaal2005/Health-Assistant"><img src="https://img.shields.io/badge/→_View_Code-39d353?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ▸ AI Chatbot
+> Conversational AI demonstrating NLP and intelligent systems
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=39d353" /> <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&logo=python&logoColor=39d353" /> <img src="https://img.shields.io/badge/ML-0d1117?style=flat-square&logo=tensorflow&logoColor=238636" />
+
+<a href="https://github.com/mahakaal2005/AI-CHATBOT"><img src="https://img.shields.io/badge/→_View_Code-39d353?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+</tr>
 </table>
 
-<br>
+<br><br>
 
-<img src="./assets/stats_logo.gif" width="35">&nbsp;**_GitHub Stats_**
-<img src="./assets/line_break.gif">
+## `> stats --github`
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahakaal2005&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahakaal2005&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=39d353&sideLabels=39d353&dates=c9d1d9&hide_border=true" width="51%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahakaal2005&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&hide_border=true&count_private=true&ring_color=39d353" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahakaal2005&background=0d1117&stroke=238636&ring=39d353&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=39d353&sideLabels=39d353&dates=6e7681&hide_border=true" width="49%" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahakaal2005&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true&title_color=39d353" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahakaal2005&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true&title_color=39d353&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph" />
 </div>
 
-<br>
+<br><br>
 
-<h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
+  
+  ## `> contribution --animate`
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/main/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/main/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/main/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mahakaal2005/mahakaal2005/main/output/github-contribution-grid-snake.svg">
   </picture>
+  
 </div>
 
 <br>
 
-<img src="./assets/header_divider.gif" width="100%">
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahakaal2005&style=for-the-badge&color=39d353" alt="Profile Views" />
+  <sub>Built with focus and caffeine ☕ | Open to collaborations</sub>
 </div>
