@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/mahakaal2005">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Atul%20Kumar%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%26%20Mobile%20Developer&descAlignY=52&descSize=18" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Atul+Kumar+Singh;Backend+%26+Mobile+Developer;Android+Domain+Coordinator+%40+Innogeeks;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -117,7 +117,7 @@ I specialize in turning complex challenges into scalable, production-grade solut
 <img src="./assets/line_break.gif">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahakaal2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahakaal2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahakaal2005&theme=tokyonight&hide_border=true" width="51%" alt="GitHub Streak" />
 </div>
 
