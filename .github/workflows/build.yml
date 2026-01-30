@@ -9,37 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      # Job 1: Generate WakaTime Stats
-      - name: WakaTime Stats
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: "false"
-          BLOCKS: "multi-line"
-          TIME_RANGE: "last_7_days"
-          SHOW_TIME: "true"
-          SHOW_TOTAL: "true"
-
-      # Job 2: Generate Isometric Contribution Graph (New & Reliable)
-      - name: Generate Isometric Contribution Graph
-        uses: S_XP/action--isometric-contribution@v1.1
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USER_NAME: mahakaal2005
-          FILE_NAME: "output/isometric_contribution.svg"
-
-      # Job 3: Generate Snake Animation
+      # Generate Snake Animation
       - name: Generate Snake Animation
-        uses: platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      # Commit and push all generated files and README changes
+
+      # Commit and push all generated files
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
