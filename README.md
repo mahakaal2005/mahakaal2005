@@ -6,7 +6,7 @@
   
   <!-- Animated Typing Header -->
   <a href="https://github.com/mahakaal2005">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%3E_+Atul+Kumar+Singh;Backend+%26+Mobile+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%3E_+Atul+Kumar+Singh;Android+App+Developer" alt="Typing SVG" />
   </a>
   
 
@@ -23,8 +23,8 @@ public class Developer {
     String education = "2nd Year CSE @ KIET | 8.91 CGPA";
     
     String[] expertise = {
-        "Backend Systems (Spring Boot, Firebase)",
-        "Mobile Development (Android, Flutter)"
+        "Android Development (Kotlin, Jetpack Compose)",
+        "Mobile Apps (Flutter, Firebase)"
     };
     
     String currentFocus = "Building scalable, production-grade solutions";
@@ -67,7 +67,7 @@ public class Developer {
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<a href="https://github.com/mahakaal2005/fintech-dashboard"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
+<a href="https://github.com/mahakaal2005/FluenceApp"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ public class Developer {
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-<a href="https://github.com/mahakaal2005/JobApp"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
+<a href="https://github.com/mahakaal2005/Job-app"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
 </tr>
@@ -99,7 +99,7 @@ public class Developer {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-<a href="https://github.com/mahakaal2005/AI-CHATBOT"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
+<a href="https://github.com/mahakaal2005/anushka_chatbot"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
 </tr>
