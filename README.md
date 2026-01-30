@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/mahakaal2005">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Atul%20Kumar%20Singh&fontSize=50&fontAlignY=35&desc=Backend%20%26%20Mobile%20Application%20Developer&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Atul%20Kumar%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%26%20Mobile%20Developer&descAlignY=52&descSize=18" width="100%" />
   </a>
 </div>
 
@@ -117,7 +117,7 @@ I specialize in turning complex challenges into scalable, production-grade solut
 <img src="./assets/line_break.gif">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahakaal2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahakaal2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahakaal2005&theme=tokyonight&hide_border=true" width="51%" alt="GitHub Streak" />
 </div>
 
