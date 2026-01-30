@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/mahakaal2005">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Atul+Kumar+Singh;Backend+%26+Mobile+Developer;Android+Domain+Coordinator+%35+Innogeeks;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39D353&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Atul+Kumar+Singh;Backend+%26+Mobile+Developer;Android+Domain+Coordinator+%40+Innogeeks;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,10 +18,10 @@ I specialize in turning complex challenges into scalable, production-grade solut
 </p>
 
 <div>
-  <a href="https://www.linkedin.com/in/atul-kumar-singh-3a828332b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.com/users/1308055867463307286" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:atul.k.singh5002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mahakaal2005" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/atul-kumar-singh-3a828332b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/1308055867463307286" target="_blank"><img src="https://img.shields.io/badge/Discord-238636?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:atul.k.singh5002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mahakaal2005" target="_blank"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
@@ -67,23 +67,23 @@ I specialize in turning complex challenges into scalable, production-grade solut
       <h3>💳 FinTech Management Dashboard</h3>
       <p><i>Cross-platform fintech dashboard serving as central management hub for cashback rewards, social features, and merchant services.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Flutter-39D353?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-39D353?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/BLoC-238636?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-238636?style=flat-square&logo=firebase&logoColor=white" />
       </p>
-      <a href="https://github.com/mahakaal2005/fintech-dashboard"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/mahakaal2005/fintech-dashboard"><img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>💼 JobApp - Job Portal Platform</h3>
       <p><i>Complete job portal with dual user roles, real-time chat, and optimized search functionality.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-39D353?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-39D353?style=flat-square&logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Provider-238636?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudinary-238636?style=flat-square&logo=cloudinary&logoColor=white" />
       </p>
-      <a href="https://github.com/mahakaal2005/JobApp"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/mahakaal2005/JobApp"><img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
@@ -91,22 +91,22 @@ I specialize in turning complex challenges into scalable, production-grade solut
       <h3>🏥 Health Assistant</h3>
       <p><i>Android health tracking app with step counting, prescription management, and AI-powered health summaries using Gemini.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/MVVM-FF6F00?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-39D353?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-39D353?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVVM-238636?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-238636?style=flat-square&logo=google&logoColor=white" />
       </p>
-      <a href="https://github.com/mahakaal2005/Health-Assistant"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/mahakaal2005/Health-Assistant"><img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI Chatbot</h3>
       <p><i>Conversational AI chatbot demonstrating NLP implementation and intelligent systems using Python.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-39D353?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-39D353?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-238636?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <a href="https://github.com/mahakaal2005/AI-CHATBOT"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/mahakaal2005/AI-CHATBOT"><img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -117,14 +117,14 @@ I specialize in turning complex challenges into scalable, production-grade solut
 <img src="./assets/line_break.gif">
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahakaal2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahakaal2005&theme=tokyonight&hide_border=true" width="51%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahakaal2005&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahakaal2005&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=39d353&sideLabels=39d353&dates=c9d1d9&hide_border=true" width="51%" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahakaal2005&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahakaal2005&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true&title_color=39d353" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
@@ -143,5 +143,5 @@ I specialize in turning complex challenges into scalable, production-grade solut
 <img src="./assets/header_divider.gif" width="100%">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahakaal2005&style=for-the-badge&color=667eea" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mahakaal2005&style=for-the-badge&color=39d353" alt="Profile Views" />
 </div>
