@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/mahakaal2005">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Atul+Kumar+Singh;Backend+%26+Mobile+Developer;Android+Domain+Coordinator+%40+Innogeeks;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Atul+Kumar+Singh;Backend+%26+Mobile+Developer;Android+Domain+Coordinator+%35+Innogeeks;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -124,7 +124,7 @@ I specialize in turning complex challenges into scalable, production-grade solut
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahakaal2005&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahakaal2005&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
