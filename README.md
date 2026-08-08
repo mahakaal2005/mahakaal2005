@@ -53,8 +53,7 @@ public class Developer {
 |:---:|:---:|:---:|:---:|
 | <img src="./icons/java.svg" width="40"><br>`Java` | <img src="./icons/android.svg" width="40"><br>`Android` | <img src="./icons/firebase.svg" width="40"><br>`Firebase` | <img src="./icons/git.svg" width="40"><br>`Git` |
 | <img src="./icons/kotlin.svg" width="40"><br>`Kotlin` | <img src="./icons/jetpackcompose.svg" width="40"><br>`Compose` | <img src="./icons/supabase.svg" width="40"><br>`Supabase` | <img src="./icons/androidstudio.svg" width="40"><br>`Android Studio` |
-| <img src="./icons/dart.svg" width="40"><br>`Dart` | <img src="./icons/flutter.svg" width="40"><br>`Flutter` | <img src="./icons/mysql.svg" width="40"><br>`SQL` | <img src="./icons/vscode.svg" width="40"><br>`VS Code` |
-| <img src="./icons/c.svg" width="40"><br>`C` | | | ✨<br>`Claude Code` |
+| <img src="./icons/dart.svg" width="40"><br>`Dart` | <img src="./icons/flutter.svg" width="40"><br>`Flutter` | <img src="./icons/mysql.svg" width="40"><br>`SQL` | <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40"><br>`Claude Code` |
 
 </div>
 
