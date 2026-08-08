@@ -3,12 +3,16 @@
 <!-- Background: #0D1117 | Text: #E6EDF3 | Muted: #7D8590 -->
 
 <div align="center">
-  
+
+  <!-- Animated ASCII Portrait -->
+  <img src="./avi-ascii.svg" width="370" alt="ASCII Portrait" />
+
+  <br>
+
   <!-- Animated Typing Header -->
   <a href="https://github.com/mahakaal2005">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%3E_+Atul+Kumar+Singh;Android+App+Developer" alt="Typing SVG" />
   </a>
-  
 
 </div>
 
@@ -47,10 +51,10 @@ public class Developer {
 
 | **Languages** | **Mobile** | **Backend** | **Tools** |
 |:---:|:---:|:---:|:---:|
-| <img src="./icons/java.svg" width="40"><br>`Java` | <img src="./icons/android.svg" width="40"><br>`Android` | <img src="./icons/spring.svg" width="40"><br>`Spring Boot` | <img src="./icons/git.svg" width="40"><br>`Git` |
-| <img src="./icons/kotlin.svg" width="40"><br>`Kotlin` | <img src="./icons/jetpackcompose.svg" width="40"><br>`Compose` | <img src="./icons/firebase.svg" width="40"><br>`Firebase` | <img src="./icons/androidstudio.svg" width="40"><br>`Android Studio` |
-| <img src="./icons/dart.svg" width="40"><br>`Dart` | <img src="./icons/flutter.svg" width="40"><br>`Flutter` | <img src="./icons/supabase.svg" width="40"><br>`Supabase` | <img src="./icons/vscode.svg" width="40"><br>`VS Code` |
-| <img src="./icons/c.svg" width="40"><br>`C` | <img src="./icons/postman.svg" width="40"><br>`REST APIs` | <img src="./icons/mysql.svg" width="40"><br>`SQL` | <img src="./icons/linux.svg" width="40"><br>`Linux` |
+| <img src="./icons/java.svg" width="40"><br>`Java` | <img src="./icons/android.svg" width="40"><br>`Android` | <img src="./icons/firebase.svg" width="40"><br>`Firebase` | <img src="./icons/git.svg" width="40"><br>`Git` |
+| <img src="./icons/kotlin.svg" width="40"><br>`Kotlin` | <img src="./icons/jetpackcompose.svg" width="40"><br>`Compose` | <img src="./icons/supabase.svg" width="40"><br>`Supabase` | <img src="./icons/androidstudio.svg" width="40"><br>`Android Studio` |
+| <img src="./icons/dart.svg" width="40"><br>`Dart` | <img src="./icons/flutter.svg" width="40"><br>`Flutter` | <img src="./icons/mysql.svg" width="40"><br>`SQL` | <img src="./icons/vscode.svg" width="40"><br>`VS Code` |
+| <img src="./icons/c.svg" width="40"><br>`C` | | | ✨<br>`Claude Code` |
 
 </div>
 
@@ -62,7 +66,17 @@ public class Developer {
 <tr>
 <td width="50%" valign="top">
 
-### ▸ FinTech Dashboard
+### ▸ Innogeeks App
+> Official application for Innogeeks with comprehensive features
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+<a href="https://github.com/mahakaal2005/InnogeeksApp"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ▸ FinTech Dashboard (Freelance)
 > Cross-platform fintech management hub for cashback rewards, social features & merchant services
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -70,36 +84,26 @@ public class Developer {
 <a href="https://github.com/mahakaal2005/FluenceApp"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### ▸ JobApp Portal
+### ▸ Grind App
+> Comprehensive productivity and habit-tracking application
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+<a href="https://github.com/mahakaal2005/Grind"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ▸ JobApp Portal (Freelance)
 > Complete job portal with dual roles, real-time chat & optimized search
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 <a href="https://github.com/mahakaal2005/Job-app"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ▸ Health Assistant
-> Android health tracker with step counting, prescriptions & Gemini AI summaries
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=flat-square&logo=android&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-
-<a href="https://github.com/mahakaal2005/Health-Assistant"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ AI Chatbot
-> Conversational AI demonstrating NLP and intelligent systems
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-<a href="https://github.com/mahakaal2005/anushka_chatbot"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
 </tr>
