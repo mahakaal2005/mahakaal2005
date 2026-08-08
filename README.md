@@ -20,7 +20,7 @@
 public class Developer {
     String name = "Atul Kumar Singh";
     String role = "Android Domain Coordinator @ Innogeeks";
-    String education = "2nd Year CSE @ KIET | 8.91 CGPA";
+    String education = "3nd Year CSE @ KIET | 8.89 CGPA";
     
     String[] expertise = {
         "Android Development (Kotlin, Jetpack Compose)",
