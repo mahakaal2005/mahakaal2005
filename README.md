@@ -4,15 +4,20 @@
 
 <div align="center">
 
-  <!-- Animated ASCII Portrait -->
-  <img src="./avi-ascii.svg" width="370" alt="ASCII Portrait" />
-
-  <br>
-
-  <!-- Animated Typing Header -->
-  <a href="https://github.com/mahakaal2005">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%3E_+Atul+Kumar+Singh;Android+App+Developer" alt="Typing SVG" />
-  </a>
+<table>
+  <tr>
+    <td valign="middle">
+      <!-- 1. Animated ASCII Portrait -->
+      <img src="./avi-ascii.svg" width="370" alt="ASCII Portrait" />
+    </td>
+    <td valign="middle" align="center">
+      <!-- 2. Animated Typing Header -->
+      <a href="https://github.com/mahakaal2005">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%3E_+Atul+Kumar+Singh;Android+App+Developer" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
