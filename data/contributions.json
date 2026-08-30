@@ -1,22 +1,22 @@
 {
   "username": "mahakaal2005",
-  "generated_at": "2026-08-29T12:39:47Z",
+  "generated_at": "2026-08-30T11:52:06Z",
   "range": {
-    "start": "2025-08-24",
-    "end": "2026-08-29"
+    "start": "2025-08-31",
+    "end": "2026-08-30"
   },
-  "total_contributions": 754,
+  "total_contributions": 758,
   "active_days": 121,
-  "avg_per_active_day": 6.2,
+  "avg_per_active_day": 6.3,
   "current_streak": {
-    "length": 27,
+    "length": 28,
     "start": "2026-08-03",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "longest_streak": {
-    "length": 27,
+    "length": 28,
     "start": "2026-08-03",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-04-11",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-08",
-      "total": 2
+      "total": 0
     },
     {
       "month": "2025-09",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 256
+      "total": 262
     }
   ],
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 0
-    },
-    {
-      "date": "2025-08-25",
-      "count": 0
-    },
-    {
-      "date": "2025-08-26",
-      "count": 0
-    },
-    {
-      "date": "2025-08-27",
-      "count": 0
-    },
-    {
-      "date": "2025-08-28",
-      "count": 2
-    },
-    {
-      "date": "2025-08-29",
-      "count": 0
-    },
-    {
-      "date": "2025-08-30",
-      "count": 0
-    },
     {
       "date": "2025-08-31",
       "count": 0
@@ -1559,7 +1531,11 @@
     },
     {
       "date": "2026-08-29",
-      "count": 9
+      "count": 12
+    },
+    {
+      "date": "2026-08-30",
+      "count": 3
     }
   ]
 }
