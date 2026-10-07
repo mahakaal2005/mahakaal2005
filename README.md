@@ -29,11 +29,13 @@
 public class Developer {
     String name = "Atul Kumar Singh";
     String role = "Android Domain Coordinator @ Innogeeks";
-    String education = "3nd Year CSE @ KIET | 8.89 CGPA";
+    String education = "3rd Year CSE @ KIET | 8.89 CGPA";
     
     String[] expertise = {
         "Android Development (Kotlin, Jetpack Compose)",
-        "Mobile Apps (Flutter, Firebase)"
+        "Mobile Apps (Flutter, Firebase)",
+        "Full-Stack (React, Node.js, Express)",
+        "Databases (PostgreSQL, MongoDB, PL/SQL)"
     };
     
     String currentFocus = "Building scalable, production-grade solutions";
@@ -54,11 +56,13 @@ public class Developer {
 
 <div align="center">
 
-| **Languages** | **Mobile** | **Backend** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| <img src="./icons/java.svg" width="40"><br>`Java` | <img src="./icons/android.svg" width="40"><br>`Android` | <img src="./icons/firebase.svg" width="40"><br>`Firebase` | <img src="./icons/git.svg" width="40"><br>`Git` |
-| <img src="./icons/kotlin.svg" width="40"><br>`Kotlin` | <img src="./icons/jetpackcompose.svg" width="40"><br>`Compose` | <img src="./icons/supabase.svg" width="40"><br>`Supabase` | <img src="./icons/androidstudio.svg" width="40"><br>`Android Studio` |
-| <img src="./icons/dart.svg" width="40"><br>`Dart` | <img src="./icons/flutter.svg" width="40"><br>`Flutter` | <img src="./icons/mysql.svg" width="40"><br>`SQL` | <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40"><br>`Claude Code` |
+| **Languages** | **Mobile & Web** | **Backend** | **Databases** | **Tools** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="./icons/java.svg" width="40"><br>`Java` | <img src="./icons/android.svg" width="40"><br>`Android` | <img src="https://cdn.simpleicons.org/nodedotjs" width="40"><br>`Node.js` | <img src="https://cdn.simpleicons.org/postgresql" width="40"><br>`PostgreSQL` | <img src="./icons/git.svg" width="40"><br>`Git` |
+| <img src="./icons/kotlin.svg" width="40"><br>`Kotlin` | <img src="./icons/jetpackcompose.svg" width="40"><br>`Compose` | <img src="https://cdn.simpleicons.org/express/E6EDF3" width="40"><br>`Express` | <img src="https://cdn.simpleicons.org/mongodb" width="40"><br>`MongoDB` | <img src="./icons/androidstudio.svg" width="40"><br>`Android Studio` |
+| <img src="./icons/dart.svg" width="40"><br>`Dart` | <img src="./icons/flutter.svg" width="40"><br>`Flutter` | <img src="./icons/firebase.svg" width="40"><br>`Firebase` | <img src="./icons/mysql.svg" width="40"><br>`SQL` | <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40"><br>`Claude Code` |
+| <img src="https://cdn.simpleicons.org/python" width="40"><br>`Python` | <img src="https://cdn.simpleicons.org/react" width="40"><br>`React` | <img src="./icons/supabase.svg" width="40"><br>`Supabase` |  |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"><br>`PL/SQL` |  |  |  |  |
 
 </div>
 
@@ -118,14 +122,20 @@ public class Developer {
 ## `> stats --github`
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahakaal2005&show_icons=true&bg_color=0d1117&title_color=10b981&text_color=e6edf3&icon_color=10b981&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahakaal2005&show_icons=true&bg_color=0d1117&title_color=10b981&text_color=e6edf3&icon_color=10b981&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahakaal2005&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=10b981&sideLabels=10b981&dates=7d8590&hide_border=true" width="49%" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahakaal2005&bg_color=0d1117&color=e6edf3&line=10b981&point=10b981&area=true&area_color=065f46&hide_border=true&title_color=10b981&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph" />
+  <img src="./activity-graph.svg" width="98%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./contrib-heatmap.svg" width="98%" alt="Contribution Heatmap" />
 </div>
 
 <br><br>
