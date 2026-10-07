@@ -25,11 +25,11 @@ STEP = CELL + GAP
 PAD = 22
 LEFT_LABEL_W = 30
 TOP_LABEL_H = 20
-TITLEBAR_H = 30
+TOP_PAD = 14
 
 BG = "#0a0e14"
 BG2 = "#0d1420"
-FRAME = "#1f6feb"
+FRAME = "#30363d"
 MUTED = "#7d8590"
 TEXT = "#e6edf3"
 ACCENT = "#22d3ee"
@@ -99,7 +99,7 @@ def render(data):
 
     canvas_w = PAD + LEFT_LABEL_W + art_w + PAD
     stats_h = 88
-    canvas_h = TITLEBAR_H + TOP_LABEL_H + art_h + stats_h + PAD
+    canvas_h = TOP_PAD + TOP_LABEL_H + art_h + stats_h + PAD
 
     css = f"""
 @keyframes cell {{
@@ -119,20 +119,15 @@ def render(data):
         '</defs>',
         f'<rect width="{canvas_w}" height="{canvas_h}" rx="12" fill="url(#hbg)"/>',
         f'<rect x="0.5" y="0.5" width="{canvas_w-1}" height="{canvas_h-1}" rx="12" '
-        f'fill="none" stroke="{FRAME}" stroke-width="1" stroke-opacity="0.55"/>',
-        f'<line x1="0" y1="{TITLEBAR_H}" x2="{canvas_w}" y2="{TITLEBAR_H}" stroke="{FRAME}" stroke-opacity="0.35"/>',
+        f'fill="none" stroke="{FRAME}" stroke-width="1" stroke-opacity="1"/>',
     ]
-    for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
-        parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
-    parts.append(f'<text x="{canvas_w/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-                 f'text-anchor="middle">avi@github: ~/contributions --graph</text>')
 
-    grid_top = TITLEBAR_H + TOP_LABEL_H
+    grid_top = TOP_PAD + TOP_LABEL_H
     grid_left = PAD + LEFT_LABEL_W
 
     for ci, label in month_labels:
         x = grid_left + ci * STEP
-        parts.append(f'<text x="{x}" y="{TITLEBAR_H + 14}" fill="{MUTED}" font-size="10">{label}</text>')
+        parts.append(f'<text x="{x}" y="{TOP_PAD + 14}" fill="{MUTED}" font-size="10">{label}</text>')
 
     for wi, wname in [(1, "Mon"), (3, "Wed"), (5, "Fri")]:
         y = grid_top + wi * STEP + CELL * 0.78
@@ -165,7 +160,7 @@ def render(data):
     parts.append(f'<text x="{lx + 4}" y="{leg_y + CELL*0.8:.1f}" fill="{MUTED}" font-size="10">More</text>')
 
     sep_y = leg_y + CELL + 14
-    parts.append(f'<line x1="0" y1="{sep_y}" x2="{canvas_w}" y2="{sep_y}" stroke="{FRAME}" stroke-opacity="0.25"/>')
+    parts.append(f'<line x1="0" y1="{sep_y}" x2="{canvas_w}" y2="{sep_y}" stroke="{FRAME}" stroke-opacity="1"/>')
 
     cs = data["current_streak"]["length"]
     ls = data["longest_streak"]["length"]
