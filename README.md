@@ -56,13 +56,12 @@ public class Developer {
 
 <div align="center">
 
-| **Languages** | **Mobile & Web** | **Backend** | **Databases** | **Tools** |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="./icons/java.svg" width="40"><br>`Java` | <img src="./icons/android.svg" width="40"><br>`Android` | <img src="https://cdn.simpleicons.org/nodedotjs" width="40"><br>`Node.js` | <img src="https://cdn.simpleicons.org/postgresql" width="40"><br>`PostgreSQL` | <img src="./icons/git.svg" width="40"><br>`Git` |
-| <img src="./icons/kotlin.svg" width="40"><br>`Kotlin` | <img src="./icons/jetpackcompose.svg" width="40"><br>`Compose` | <img src="https://cdn.simpleicons.org/express/E6EDF3" width="40"><br>`Express` | <img src="https://cdn.simpleicons.org/mongodb" width="40"><br>`MongoDB` | <img src="./icons/androidstudio.svg" width="40"><br>`Android Studio` |
-| <img src="./icons/dart.svg" width="40"><br>`Dart` | <img src="./icons/flutter.svg" width="40"><br>`Flutter` | <img src="./icons/firebase.svg" width="40"><br>`Firebase` | <img src="./icons/mysql.svg" width="40"><br>`SQL` | <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40"><br>`Claude Code` |
-| <img src="https://cdn.simpleicons.org/python" width="40"><br>`Python` | <img src="https://cdn.simpleicons.org/react" width="40"><br>`React` | <img src="./icons/supabase.svg" width="40"><br>`Supabase` |  |  |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"><br>`PL/SQL` |  |  |  |  |
+| **Languages** | **Mobile & Web** | **Backend** | **Databases** | **IDEs** | **Tools** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="./icons/java.svg" width="40"><br>`Java` | <img src="./icons/android.svg" width="40"><br>`Android` | <img src="https://cdn.simpleicons.org/nodedotjs" width="40"><br>`Node.js` | <img src="https://cdn.simpleicons.org/postgresql" width="40"><br>`PostgreSQL` | <img src="./icons/androidstudio.svg" width="40"><br>`Android Studio` | <img src="./icons/git.svg" width="40"><br>`Git` |
+| <img src="./icons/kotlin.svg" width="40"><br>`Kotlin` | <img src="./icons/jetpackcompose.svg" width="40"><br>`Compose` | <img src="https://cdn.simpleicons.org/express/E6EDF3" width="40"><br>`Express` | <img src="https://cdn.simpleicons.org/mongodb" width="40"><br>`MongoDB` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"><br>`IntelliJ IDEA` | <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40"><br>`Claude Code` |
+| <img src="./icons/dart.svg" width="40"><br>`Dart` | <img src="./icons/flutter.svg" width="40"><br>`Flutter` | <img src="./icons/firebase.svg" width="40"><br>`Firebase` | <img src="./icons/mysql.svg" width="40"><br>`SQL` | <img src="./icons/vscode.svg" width="40"><br>`VS Code` | <img src="./icons/github.svg" width="40"><br>`GitHub` |
+| <img src="https://cdn.simpleicons.org/python" width="40"><br>`Python` | <img src="https://cdn.simpleicons.org/react" width="40"><br>`React` | <img src="./icons/supabase.svg" width="40"><br>`Supabase` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"><br>`PL/SQL` | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="40"><br>`Antigravity` | <img src="https://cdn.simpleicons.org/googlecloud" width="40"><br>`Google Cloud` |
 
 </div>
 
@@ -84,24 +83,24 @@ public class Developer {
 </td>
 <td width="50%" valign="top">
 
-### ▸ FinTech Dashboard (Freelance)
-> Cross-platform fintech management hub for cashback rewards, social features & merchant services
+### ▸ TradeX
+> AI-powered trading platform with Gemini trading signals, paper trading & live market data
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<a href="https://github.com/mahakaal2005/FluenceApp"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
+<a href="https://github.com/mahakaal2005/TradeX"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ▸ Grind App
-> Comprehensive productivity and habit-tracking application
+### ▸ PDFit
+> Offline, ad-free Android document scanner with ML Kit edge detection & one-tap PDF
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![ML_Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 
-<a href="https://github.com/mahakaal2005/Grind"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
+<a href="https://github.com/mahakaal2005/PDFit"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
 <td width="50%" valign="top">
