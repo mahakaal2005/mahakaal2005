@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Android & Flutter Developer · Android Domain Coordinator @ Innogeeks
+### Android Developer · Android Domain Coordinator @ Innogeeks
 
 3rd year CSE @ KIET · 8.89 CGPA · Mentored 200+ students through workshops & hackathons<br>
 Also building full-stack with React, Node.js & PostgreSQL
