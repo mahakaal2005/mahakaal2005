@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Android Developer · Android Domain Coordinator @ Innogeeks
+### Android Developer · Android Lead @ Innogeeks
 
 3rd year CSE @ KIET · 8.89 CGPA · Mentored 200+ students through workshops & hackathons<br>
 Also building full-stack with React, Node.js & PostgreSQL
@@ -32,14 +32,26 @@ Also building full-stack with React, Node.js & PostgreSQL
 <tr>
 <td width="50%" valign="top">
 
-### ▸ Innogeeks App
-> Official application for Innogeeks with comprehensive features
+### ▸ Temacker
+> Offline-first team task tracker where every task has one holder and moves by accepted handoffs; 133 security-rules tests
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack_Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+<a href="https://github.com/mahakaal2005/Temacker"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ▸ Innogeeks App
+> Official Play Store app for KIET's largest tech club: 20 Compose screens, role-based navigation & live recruitment tracker
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack_Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white)
 
 <a href="https://github.com/mahakaal2005/InnogeeksApp"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ▸ TradeX
@@ -50,8 +62,6 @@ Also building full-stack with React, Node.js & PostgreSQL
 <a href="https://github.com/mahakaal2005/TradeX"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ▸ PDFit
@@ -60,16 +70,6 @@ Also building full-stack with React, Node.js & PostgreSQL
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![ML_Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 
 <a href="https://github.com/mahakaal2005/PDFit"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ JobApp Portal (Freelance)
-> Complete job portal with dual roles, real-time chat & optimized search
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-<a href="https://github.com/mahakaal2005/Job-app"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
 </tr>
@@ -95,7 +95,7 @@ Also building full-stack with React, Node.js & PostgreSQL
 ## `> stats --github`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahakaal2005&show_icons=true&bg_color=0d1117&title_color=10b981&text_color=e6edf3&icon_color=10b981&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="./stats-card.svg" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahakaal2005&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=10b981&sideLabels=10b981&dates=7d8590&hide_border=true" width="49%" alt="GitHub Streak" />
 </div>
 

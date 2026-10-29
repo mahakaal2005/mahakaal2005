@@ -35,8 +35,13 @@ jobs:
       - name: Render activity graph SVG
         run: python scripts/render_activity_graph.py
 
+      - name: Render GitHub stats card SVG
+        run: python scripts/render_stats_svg.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg activity-graph.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg activity-graph.svg stats-card.svg"
